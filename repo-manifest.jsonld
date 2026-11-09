@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/block/domain-api/commit/07397bafbfb974bca508472708de0e1bed23ce1e",
       "git:hexsha": "07397bafbfb974bca508472708de0e1bed23ce1e",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "lib-kfsm-v2-v0.1.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "lib-kfsm-v2-v0.1.0",
+      "repolex:parsedAt": "2026-11-09T16:36:29.330460+00:00"
     },
     {
       "@id": "https://repolex.ai/r/block/domain-api/commit/8f16680e8e6da889cfb0467060e1e0237cd66e6e",
