@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "domain-api",
+  "versions": [
+    {
+      "commit": "07397bafbfb974bca508472708de0e1bed23ce1e",
+      "tag": "lib-kfsm-v2-v0.1.0",
+      "parsed_at": "2026-11-09T16:36:29.330982+00:00"
+    }
+  ]
+}
